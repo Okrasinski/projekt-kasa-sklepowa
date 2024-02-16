@@ -1,0 +1,14 @@
+C:\Users\okras\OneDrive\Pulpit\kasa_sklepowa\okrasinski_kasa_sklepowa\bin\Debug\net7.0\okrasinski_kasa_sklepowa.exe
+C:\Users\okras\OneDrive\Pulpit\kasa_sklepowa\okrasinski_kasa_sklepowa\bin\Debug\net7.0\okrasinski_kasa_sklepowa.deps.json
+C:\Users\okras\OneDrive\Pulpit\kasa_sklepowa\okrasinski_kasa_sklepowa\bin\Debug\net7.0\okrasinski_kasa_sklepowa.runtimeconfig.json
+C:\Users\okras\OneDrive\Pulpit\kasa_sklepowa\okrasinski_kasa_sklepowa\bin\Debug\net7.0\okrasinski_kasa_sklepowa.dll
+C:\Users\okras\OneDrive\Pulpit\kasa_sklepowa\okrasinski_kasa_sklepowa\bin\Debug\net7.0\okrasinski_kasa_sklepowa.pdb
+C:\Users\okras\OneDrive\Pulpit\kasa_sklepowa\okrasinski_kasa_sklepowa\obj\Debug\net7.0\okrasinski_kasa_sklepowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okras\OneDrive\Pulpit\kasa_sklepowa\okrasinski_kasa_sklepowa\obj\Debug\net7.0\okrasinski_kasa_sklepowa.AssemblyInfoInputs.cache
+C:\Users\okras\OneDrive\Pulpit\kasa_sklepowa\okrasinski_kasa_sklepowa\obj\Debug\net7.0\okrasinski_kasa_sklepowa.AssemblyInfo.cs
+C:\Users\okras\OneDrive\Pulpit\kasa_sklepowa\okrasinski_kasa_sklepowa\obj\Debug\net7.0\okrasinski_kasa_sklepowa.csproj.CoreCompileInputs.cache
+C:\Users\okras\OneDrive\Pulpit\kasa_sklepowa\okrasinski_kasa_sklepowa\obj\Debug\net7.0\okrasinski_kasa_sklepowa.dll
+C:\Users\okras\OneDrive\Pulpit\kasa_sklepowa\okrasinski_kasa_sklepowa\obj\Debug\net7.0\refint\okrasinski_kasa_sklepowa.dll
+C:\Users\okras\OneDrive\Pulpit\kasa_sklepowa\okrasinski_kasa_sklepowa\obj\Debug\net7.0\okrasinski_kasa_sklepowa.pdb
+C:\Users\okras\OneDrive\Pulpit\kasa_sklepowa\okrasinski_kasa_sklepowa\obj\Debug\net7.0\okrasinski_kasa_sklepowa.genruntimeconfig.cache
+C:\Users\okras\OneDrive\Pulpit\kasa_sklepowa\okrasinski_kasa_sklepowa\obj\Debug\net7.0\ref\okrasinski_kasa_sklepowa.dll
